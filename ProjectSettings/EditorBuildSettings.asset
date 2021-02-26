@@ -8,7 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
-  - enabled: 1
+  - enabled: 0
     path: Assets/0_First Steps/0-First Steps.unity
     guid: 5043a6db7ead9084d900bac02f124e4c
+  - enabled: 0
+    path: Assets/FirstSteps - Francesc Ferrer.unity
+    guid: 377bcf6e4ea327a458f0842e61792489
+  - enabled: 1
+    path: Assets/Lesson 3.unity
+    guid: c82a658ef24a8444c9522254c9e71e3d
   m_configObjects: {}
