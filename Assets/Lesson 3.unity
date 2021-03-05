@@ -171,23 +171,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!320 &350946946
-PlayableDirector:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350946944}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: c1bc95434a241b942b23a111f5b8cce1, type: 2}
-  m_InitialState: 1
-  m_WrapMode: 2
-  m_DirectorUpdateMode: 1
-  m_InitialTime: 0
-  m_SceneBindings: []
-  m_ExposedReferences:
-    m_References: []
 --- !u!1 &389974299
 GameObject:
   m_ObjectHideFlags: 0
@@ -226,7 +209,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'ADV LESSON 3
+  m_text: 'Project 1
 
     by Francesc Ferrer'
   m_isRightToLeft: 0
@@ -811,25 +794,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!320 &1435269566
-PlayableDirector:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1435269564}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: 82ffd4d32a4a6fa4eb27bab72c66f185, type: 2}
-  m_InitialState: 1
-  m_WrapMode: 2
-  m_DirectorUpdateMode: 1
-  m_InitialTime: 0
-  m_SceneBindings:
-  - key: {fileID: 1364602094287554932, guid: 82ffd4d32a4a6fa4eb27bab72c66f185, type: 2}
-    value: {fileID: 1435269565}
-  m_ExposedReferences:
-    m_References: []
 --- !u!1 &1646055611
 GameObject:
   m_ObjectHideFlags: 0
@@ -1062,6 +1026,8 @@ PlayableDirector:
     value: {fileID: 313604573}
   - key: {fileID: -6891393457965839036, guid: fdc229b2a8a874449a24428045cf942b, type: 2}
     value: {fileID: 1773606539}
+  - key: {fileID: -3447065164670359901, guid: fdc229b2a8a874449a24428045cf942b, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1834483846
